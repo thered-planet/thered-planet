@@ -6,6 +6,7 @@ Pronouns: They/Them
 ### <H2> What I'm Doing:
 - Pursuing an Associate Degree in Physics
 - Completing a Certificate in Data Science
+- Tutor for Boys & Girls Club  
 - Engeinnering Teaching Fellowship with Americorps
   
   ![Mars' GitHub Stats](https://github-readme-stats.vercel.app/api?username=thered-planet&show_icons=true&theme=dark)
